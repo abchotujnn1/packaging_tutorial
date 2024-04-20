@@ -18,6 +18,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = ""
-Issues = ""
+Homepage = "https://github.com/abchotujnn1/packaging_tutorial"
+Issues = "https://github.com/abchotujnn1/packaging_tutorial/issues"
 
